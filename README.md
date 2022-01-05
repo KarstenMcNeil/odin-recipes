@@ -1,1 +1,1 @@
-# odin-recipes
+This is my first attempt at a basic page via OdinProject. I'll be coding a page on Neena's Banana Pudding Recipe which is based off Paula Dean's but that's neither here nor there. I'll be using my ability to code in pictures, lists and the basics of HTML to show my progress so far on 12/27/2021 (My 32nd Birthday).
